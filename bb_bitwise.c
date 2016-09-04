@@ -1,3 +1,6 @@
+/* Basic implementation of bitwise operators in */
+
+
 #include <stdio.h>
 
 
