@@ -1,5 +1,7 @@
-#include <stdio.h>
+/* This program intends to initialise all the elements of a 1D array to the square of its index and display the result */
 
+
+#include <stdio.h>
 
 void print_array (float values[]){
 	int i;
