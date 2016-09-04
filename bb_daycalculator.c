@@ -1,3 +1,10 @@
+/* IMPORTANT: Read up on how enumerations, functions and command line arguments work before attempting to read this code. This is intended for novices 
+and not complete beginners (sorry for that). Time to hit the books and embrace the suck, sorry. */
+
+/* This uses a certain date as a pivot and calculates the day of a certain date (your birthday in this case), wheein the 
+date is taken as an input. */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
