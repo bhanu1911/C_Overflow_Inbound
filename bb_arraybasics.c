@@ -1,3 +1,6 @@
+/* The program initialises all the elements of a certain 2D array whose length and breadth are taken as arguments to -1 */ 
+
+
 #include <stdio.h>
 
 /* preprocessor directive
